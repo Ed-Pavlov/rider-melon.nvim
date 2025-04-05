@@ -1,4 +1,4 @@
--- Handles configuration for the rider_melon theme
+-- Handles configuration for the rider-melon theme
 
 local M = {}
 

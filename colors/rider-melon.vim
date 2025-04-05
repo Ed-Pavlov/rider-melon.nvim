@@ -8,4 +8,4 @@ endif
 
 " Let the Lua module handle setting 'background' based on current value
 " It requires the theme module's load function now
-lua require('rider_melon.theme').load()
+lua require('rider-melon.theme').load()

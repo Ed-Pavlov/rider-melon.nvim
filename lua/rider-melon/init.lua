@@ -1,4 +1,4 @@
--- Main entry point for the rider_melon plugin
+-- Main entry point for the rider-melon plugin
 
 local config = require("rider-melon.config")
 local theme = require("rider-melon.theme")
