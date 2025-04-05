@@ -30,7 +30,7 @@ Install using your favorite package manager.
   priority = 1000, -- Ensure it loads early to apply the theme
   config = function()
     -- Load the colorscheme here.
-    vim.cmd.colorscheme 'rider_melon'
+    vim.cmd.colorscheme 'rider-melon'
 
     -- You can configure highlights by overriding the setup function,
     -- but for simple theme loading, just setting colorscheme is enough.
